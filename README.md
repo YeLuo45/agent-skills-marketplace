@@ -4,7 +4,9 @@
 >
 > Inspired by `obra/superpowers` · `addyosmani/agent-skills` · `mattpocock/skills` · `TencentCloud/TencentDB-Agent-Memory`
 
-[**🌐 Live Demo**](#) · [**📦 Engines (11 engines · 11 tests)**](#engines) · [**🎨 Themes**](#themes)
+[**🌐 Live Demo**](https://yeluo45.github.io/agent-skills-marketplace/) · [**📦 Engines (11 engines · 11 tests · 100% pass)**](#engines) · [**🎨 4 themes**](#themes)
+
+![GitHub Pages](https://img.shields.io/badge/live-yeluo45.github.io%2Fagent--skills--marketplace-2563eb) ![Tests](https://img.shields.io/badge/tests-11%2F11%20pass-16a34a) ![Engines](https://img.shields.io/badge/engines-11-7c3aed)
 
 ---
 
